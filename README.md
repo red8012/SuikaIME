@@ -14,7 +14,7 @@ For best experience, your device should meet following requirements.
 ##How to Install
 1. Remove old version of SuikaIME ( if any )
 1. Go to Settings -> Security -> enable Unknown sources
-1. Download WIME.apk
+1. Download WIME.apk (clone or download [here](https://dl.dropboxusercontent.com/u/266760/WIMEalpha.apk))
 2. Install WIME.apk
 3. Go to Settings -> Language & input -> enable 西瓜輸入法
 4. When focused on a text field, go to Notification -> Choose input method -> 西瓜輸入法<br>
