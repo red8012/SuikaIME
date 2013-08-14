@@ -6,9 +6,10 @@ This only works as an issue tracker. The code of SuikaIME will not be place here
 ## System Requirements
 For best experience, your device should meet following requirements.   
 
-1.	A display larger than 4 inch but smaller than 8 inch
+1. A display larger than 4 inch but smaller than 7 inch with 16:9 ratio
 2. Quad core processor
 3. Android version newer than 4.0.3
+4. Internal storage free space larger than 200 MB (cannot be moved to SD card)
 
 ##How to Install
 1. Remove old version of SuikaIME ( if any )
@@ -21,7 +22,7 @@ Note that starting up for the first time may take up to 20 sec copying the datab
 5. If there is any problem, try **reboot you device**.
 
 ***
-### Please help report bugs and issues on the issue page.
+### Please help report bug and issues on the issue page.
 <br>
 ***
 ##Relese Note
@@ -32,3 +33,6 @@ Note that starting up for the first time may take up to 20 sec copying the datab
 	*	Improved composing database
 	*	Improved automatic learning algorithm
 	*	Drop support of Android 2.X devices
+	
+##In Progress
+* Landscape mode
