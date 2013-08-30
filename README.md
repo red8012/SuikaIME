@@ -4,6 +4,7 @@ Note:
 This only works as an issue tracker. The code of SuikaIME will not be place here.
 
 ## Notifications **重要**
+請由下方 How to Install 部分下載，apk 檔暫時不放在 Github。
 請參見 Release Note 的改動部分，協助回報各種問題。<br>
 下一個版本是 RC，期間不會再增加新功能，以修正問題與增進使用體驗為主。<br>
 請務必移除舊版本再安裝新版本，否則資料庫可能不會更新。<br>
@@ -25,7 +26,7 @@ For best experience, your device should meet following requirements.
 ##How to Install
 1. Remove old version of SuikaIME ( if any )
 1. Go to Settings -> Security -> enable Unknown sources
-1. Download WIMEbeta.apk (clone or download [here](https://dl.dropboxusercontent.com/u/266760/WIMEbeta.apk))
+1. Download WIMEbeta.apk from [here](https://dl.dropboxusercontent.com/u/266760/WIMEbeta.apk)
 2. Install WIMEbeta.apk
 3. Go to Settings -> Language & input -> enable 西瓜輸入法
 4. When focused on a text field, go to Notification -> Choose input method -> 西瓜輸入法<br>
