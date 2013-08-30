@@ -3,6 +3,17 @@ SuikaIME
 Note:
 This only works as an issue tracker. The code of SuikaIME will not be place here.
 
+## Notifications **重要**
+請參見 Release Note 的改動部分，協助回報各種問題。<br>
+下一個版本是 RC，期間不會再增加新功能，以修正問題與增進使用體驗為主。<br>
+請務必移除舊版本再安裝新版本，否則資料庫可能不會更新。<br>
+
+**簡易的資料庫版本判斷方法：**
+
+1. 如果詞庫裡有“佐天淚子”，表示資料庫版本為20130816
+1. 如果詞庫裡沒有“佐天淚子”，但是有“御坂美琴”，表示資料庫版本為20130731
+2. 如果都沒有表示資料庫版本為20130321
+
 ## System Requirements
 For best experience, your device should meet following requirements.   
 
@@ -26,6 +37,12 @@ Note that starting up for the first time may take up to 20 sec copying the datab
 <br>
 ***
 ##Relese Note
+* 1.0 Beta 2013.08.30
+	*	Bug fix
+	*	Landscape mode
+	*	Improved database
+	*	Improved first time user experience
+	*	Automatic copy names in the contacts into the database
 * 1.0 Alpha 2013.08.13
 	*	Improved UI
 	*	Improved speed
@@ -35,4 +52,4 @@ Note that starting up for the first time may take up to 20 sec copying the datab
 	*	Drop support of Android 2.X devices
 	
 ##In Progress
-* Landscape mode
+* Tutorial
