@@ -6,6 +6,7 @@ This only works as an issue tracker. The code of SuikaIME will not be place here
 ## Notifications **重要**
 請由下方 How to Install 部分下載，apk 檔暫時不放在 Github。<br>
 請參見 Release Note 的改動部分，協助回報各種問題。<br>
+請盡可能“用力”測試，幫我把每個地方都按一按，以提早發現issue。<br>
 下一個版本是 RC，期間不會再增加新功能，以修正問題與增進使用體驗為主。<br>
 請務必移除舊版本再安裝新版本，否則資料庫可能不會更新。<br>
 
